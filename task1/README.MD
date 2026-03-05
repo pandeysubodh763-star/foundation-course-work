@@ -35,8 +35,7 @@ The main focus is on:
   - Obfuscation techniques used in attacks  
   - Canonicalisation and input validation defences
 
----
-
+```
 ## Files and Materials in this Folder
 Task1_Encoding_Security/
 ├── README.md                           # ← This file
@@ -48,7 +47,8 @@ Task1_Encoding_Security/
 ├── examples/
 │   └── encoding_comparison_table.md
 └── references.md                       # Academic sources & standards (RFCs, OWASP, etc.)
-text---
+
+```
 
 ## Key Takeaways
 
